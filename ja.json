@@ -55,6 +55,20 @@
     "Status:": "ステータス:",
     "Running": "起動中",
     "Module": "モジュール",
-    "Status": "ステータス"
+    "Status": "ステータス",
+    "Backups": "バックアップ",
+    "File Manager": "ファイルマネージャー",
+    "Configuration": "設定",
+    "Manage": "操作",
+    "Stop Instance": "インスタンスを停止",
+    "Edit Settings": "設定を編集",
+    "Edit Ports": "ポートを編集",
+    "Update": "アップデート",
+    "Delete Instance": "インスタンスを削除",
+    "Confirm Shutdown": "シャットダウンしますか?",
+    "Upgrading this instance requires that it is shut down, along with the application within it. Do you want to proceed with the upgrade?": "このインスタンスをアップデートするには、その中のアプリケーションとともにシャットダウンする必要があります。アップデートを続行しますか?",
+    "Shutdown and Update": "シャットダウンしてアップデート",
+    "Select Application": "アプリを選ぶ",
+    "Back": "戻る"
   }
 }
