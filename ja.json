@@ -1,0 +1,60 @@
+{
+  "LocaleName": "ja",
+  "TranslationAuthor": "ReUnknown",
+  "MonthsOfYear": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "June",
+    "July",
+    "Aug",
+    "Sept",
+    "Oct",
+    "Nov",
+    "Dec"
+  ],
+  "DaysOfWeek": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thurs",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "LongDaysOfWeek": [
+    "月曜日",
+    "火曜日",
+    "水曜日",
+    "木曜日",
+    "金曜日",
+    "土曜日",
+    "日曜日"
+  ],
+  "Strings": {
+    "Username": "名前",
+    "Password": "パスワード",
+    "Remember Me": "ログインを保存する",
+    "Welcome to AMP": "AMPへようこそ",
+    "Support": "サポート",
+    "Diagnostics Data": "診断データ",
+    "Currently running version": "現在実行中のバージョン",
+    "AMP is up-to-date.": "AMPは最新です。",
+    "View Latest Release Notes": "最新リリースノートを表示",
+    "Instances": "インスタンス",
+    "Create Instance": "インスタンスを作成",
+    "Console": "コンソール",
+    "Schedule": "スケジュール",
+    "No Schedule Set": "スケジュールはありません",
+    "Create a new schedule trigger to make tasks run either at a given interval, or in response to an event.": "タスクを指定された間隔、またはイベントに反応して実行する新しいスケジュールトリガーを作成します。",
+    "Add new trigger": "トリガーを追加",
+    "Add a new trigger": "トリガーを追加する",
+    "Cancel": "キャンセル",
+    "Status:": "ステータス:",
+    "Running": "起動中",
+    "Module": "モジュール",
+    "Status": "ステータス"
+  }
+}
