@@ -1,4 +1,4 @@
-# AMP-Japanese-Language
+# AMP-Japanese-Translator
 AMP(application management panel)に日本語訳を追加します。  
   
 リポジトリにある ja.json をメインインスタンス内の `Webroot/Locale` に設置します。  
