@@ -71,6 +71,7 @@
     "Select Application": "アプリを選ぶ",
     "Back": "戻る",
     "Endpoint": "エンドポイント",
-    "Autostart": "自動スタート"
+    "Autostart": "自動スタート",
+    "Plugins": "プラグイン"
   }
 }
