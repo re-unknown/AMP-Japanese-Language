@@ -69,9 +69,10 @@
     "Upgrading this instance requires that it is shut down, along with the application within it. Do you want to proceed with the upgrade?": "このインスタンスをアップデートするには、その中のアプリケーションとともにシャットダウンする必要があります。アップデートを続行しますか?",
     "Shutdown and Update": "シャットダウンしてアップデート",
     "Select Application": "アプリを選ぶ",
-    "Back": "戻る",
+    "Back": "戻す",
     "Endpoint": "エンドポイント",
     "Autostart": "自動スタート",
-    "Plugins": "プラグイン"
+    "Plugins": "プラグイン",
+    "Backup Count Limit": "バックアップ数上限"
   }
 }
