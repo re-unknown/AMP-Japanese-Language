@@ -80,6 +80,9 @@
     "Stop": "止める",
     "Application State:": "アプリケーションステータス:",
     "Usage": "使用率",
-    "Sleeping, available for users": "ユーザーが参加するまでスリープ中"
+    "Sleeping, available for users": "ユーザーが参加するまでスリープ中",
+    "Main ": "メイン",
+    "Main Menu": "メインメニュー",
+    "Actions": "アクション"
   }
 }
