@@ -57,7 +57,7 @@
     "Module": "モジュール",
     "Status": "ステータス",
     "Backups": "バックアップ",
-    "File Manager": "ファイルマネージャー",
+    "File Manager": "ファイル管理",
     "Configuration": "設定",
     "Manage": "操作",
     "Stop Instance": "インスタンスを停止",
@@ -83,6 +83,9 @@
     "Sleeping, available for users": "ユーザーが参加するまでスリープ中",
     "Main ": "メイン",
     "Main Menu": "メインメニュー",
-    "Actions": "アクション"
+    "Actions": "アクション",
+    "Datastores": "データストア",
+    "Soft Limit": "ソフトリミット",
+    "Tags": "タグ"
   }
 }
